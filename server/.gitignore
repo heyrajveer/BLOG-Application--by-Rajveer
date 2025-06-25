@@ -1,0 +1,71 @@
+.env
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite cache
+.vite/
+.vitepress/
+vite.config.ts
+
+# Coverage directory used by testing tools
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Debugger settings
+.vscode/
+
+# Parcel-bundler cache
+.cache/
+
+# MongoDB data folders (if you're storing data locally)
+data/db/
+dump/
+
+# Local uploads (optional)
+uploads/
+public/uploads/
+files/
+
+# TypeScript
+*.tsbuildinfo
+
+# macOS system files
+*.DS_Store
+
+# React dev tools
+*.log
+
+# IDE settings
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional: ignore
